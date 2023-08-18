@@ -1,6 +1,7 @@
+import Post from "../Post/Post";
 import './posts.css';
 
-function Post(){
+function Posts(){
     return(
         <div className='posts'>
             <Post/>
@@ -13,4 +14,4 @@ function Post(){
     );
 }
 
-export default Post;
+export default Posts;
