@@ -1,7 +1,7 @@
 import Sidebar from "../../components/Sidebar/Sidebar";
 import "./settings.css";
 
-const Setting = () => {
+const Settings = () => {
   return (
     <div className="settings">
       <div className="settingsWrapper">
@@ -36,4 +36,4 @@ const Setting = () => {
   );
 };
 
-export default Setting;
+export default Settings;
